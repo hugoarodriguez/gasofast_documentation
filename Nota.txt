@@ -1,0 +1,4 @@
+Dentro del documento de Word denominado "Documento Técnicas de Calidad de Software - Final"
+se encuentra todo el documento con cada etapa solicitada por avance, y en cada sección 
+de "PUBLICACIÓN EN VERSIONADORES GIT, GITHUB, DEVOPS, SVN" se encuentran los enlaces al repositorio 
+con el código fuente y al repositorio con toda la documentación.
