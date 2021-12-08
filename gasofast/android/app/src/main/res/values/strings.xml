@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">GasoFast</string>
+<string name="facebook_app_id">412890040564555</string>
+<string name="fb_login_protocol_scheme">fb412890040564555</string>
+</resources>
